@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "WWednp8O7KgCSmTdOWSN0hd2vRo2UNqHDOngtEFFtjWstTtJklSI4OzD8DzH7Z8JmhbWyMtFqQ193XWPOlY8Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leandro\\Documents\\proyectos\\aplicacion2\\aplicacion2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leandro\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.2\\guna.ui2.winforms.2.0.3.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Guna.UI2.WinForms 2.0.3.2\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net6.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Guna.UI2.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
